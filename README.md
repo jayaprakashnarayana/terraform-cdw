@@ -11,5 +11,10 @@ Terraform Demo at CDW.
 -- Expand Disk 
     https://docs.aws.amazon.com/cloud9/latest/user-guide/move-environment.html
 
-######Steps to Clone Repo 
---> git clone repo-url
+###### Check if terraform is present in Cloud9 by default it is present.
+
+###### If not present, please install using below follwing commands.
+---- "sudo yum install terraform"
+
+###### Steps to Clone Repo 
+-- git clone repo-url
